@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore word and powerpoint documents
+*.docx
+*.pptx
+
 # Distribution / packaging
 .Python
 build/
