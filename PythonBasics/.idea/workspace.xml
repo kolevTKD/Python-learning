@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bb82cf4-9558-47e9-8a38-ed2420eff61b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.6-Operations-between-numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.7-Hotel-room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.8-On-time-for-the-exam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.9-Ski-trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/01-numbers-from-1-to-100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/02-Nums-1-to-n-step-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/03-Even-powers-of-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/04-Numbers-n-to-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/05-Character-sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/06-Vowels-sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/07-Sum-numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/08-Number-sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/09-Left-and-right-sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-For-loop/10-Odd-even-sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +48,7 @@
     "Python.01-Day-of-week.executor": "Run",
     "Python.01-Excellent-result.executor": "Run",
     "Python.01-Hello-SoftUni.executor": "Run",
+    "Python.01-numbers-from-1-to-100.executor": "Run",
     "Python.01.1-Cinema.executor": "Run",
     "Python.01.1-Sum-seconds.executor": "Run",
     "Python.01.1-USD-to-BGN.executor": "Run",
@@ -67,27 +74,36 @@
     "Python.01.9-Ski-trip.executor": "Run",
     "Python.02-Greater-number.executor": "Run",
     "Python.02-Nums-1-to-10.executor": "Run",
+    "Python.02-Nums-1-to-n-step-3.executor": "Run",
     "Python.02-Weekend-or-working-day.executor": "Run",
     "Python.03-Animal-type.executor": "Run",
     "Python.03-Even-or-odd.executor": "Run",
+    "Python.03-Even-powers-of-2.executor": "Run",
     "Python.03-Rectangle-area.executor": "Run",
     "Python.04-Inches-to-cm.executor": "Run",
+    "Python.04-Numbers-n-to-1.executor": "Run",
     "Python.04-Password-guess.executor": "Run",
     "Python.04-Personal-titles.executor": "Run",
+    "Python.05-Character-sequence.executor": "Run",
     "Python.05-Greeting-by-name.executor": "Run",
     "Python.05-Number-100-to-200.executor": "Run",
     "Python.05-Small-shop.executor": "Run",
     "Python.06-Concatenate-data.executor": "Run",
     "Python.06-Number-in-range.executor": "Run",
     "Python.06-Speed-info.executor": "Run",
+    "Python.06-Vowels-sum.executor": "Run",
     "Python.07-Area-of-figures.executor": "Run",
     "Python.07-Projects-creation.executor": "Run",
+    "Python.07-Sum-numbers.executor": "Run",
     "Python.07-Working-hours.executor": "Run",
     "Python.08-Cinema-ticket.executor": "Run",
+    "Python.08-Number-sequence.executor": "Run",
     "Python.08-Petshop.executor": "Run",
     "Python.09-Fruit-or-vegetable.executor": "Run",
+    "Python.09-Left-and-right-sum.executor": "Debug",
     "Python.09-Yard-greening.executor": "Run",
     "Python.10-Invalid-number.executor": "Run",
+    "Python.10-Odd-even-sum.executor": "Run",
     "Python.11-Fruit-shop.executor": "Run",
     "Python.12-Trade-comissions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,8 +127,8 @@
       <recent name="E:\Python-lectures\PythonBasics\01-First-steps-in-coding" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01.9-Ski-trip">
-    <configuration name="01.2-Summer_outfit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10-Odd-even-sum">
+    <configuration name="06-Vowels-sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-Conditional-statements-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-For-loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.2-Summer_outfit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-For-loop/06-Vowels-sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01.4-Fishing-boat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-Sum-numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-Conditional-statements-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-For-loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.4-Fishing-boat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-For-loop/07-Sum-numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01.6-Operations-between-numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08-Number-sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-Conditional-statements-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-For-loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.6-Operations-between-numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-For-loop/08-Number-sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01.8-On-time-for-the-exam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09-Left-and-right-sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-Conditional-statements-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-For-loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.8-On-time-for-the-exam.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-For-loop/09-Left-and-right-sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01.9-Ski-trip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10-Odd-even-sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-Conditional-statements-advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-For-loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.9-Ski-trip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-For-loop/10-Odd-even-sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01.9-Ski-trip" />
-        <item itemvalue="Python.01.8-On-time-for-the-exam" />
-        <item itemvalue="Python.01.6-Operations-between-numbers" />
-        <item itemvalue="Python.01.4-Fishing-boat" />
-        <item itemvalue="Python.01.2-Summer_outfit" />
+        <item itemvalue="Python.10-Odd-even-sum" />
+        <item itemvalue="Python.09-Left-and-right-sum" />
+        <item itemvalue="Python.08-Number-sequence" />
+        <item itemvalue="Python.07-Sum-numbers" />
+        <item itemvalue="Python.06-Vowels-sum" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +277,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04-For-loop/10-Odd-even-sum.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonBasics$04_Password_guess.coverage" NAME="04-Password-guess Coverage Results" MODIFIED="1743889585737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-Conditional-statements" />
