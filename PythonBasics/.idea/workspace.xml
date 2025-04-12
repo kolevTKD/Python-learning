@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bb82cf4-9558-47e9-8a38-ed2420eff61b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.1-Cinema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.2-Summer_outfit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.3-New-house.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.4-Fishing-boat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.5-Journey.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.6-Operations-between-numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.7-Hotel-room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.8-On-time-for-the-exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Conditional-statements-advanced/01.9-Ski-trip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +55,16 @@
     "Python.01.4-Vacation-books-list.executor": "Run",
     "Python.01.5-Godzilla-vs-Kong.executor": "Run",
     "Python.01.5-Supplies-for-school.executor": "Debug",
+    "Python.01.6-Operations-between-numbers.executor": "Run",
     "Python.01.6-Repainting.executor": "Run",
     "Python.01.6-World-swimming-record.executor": "Run",
     "Python.01.7-Food-delivery.executor": "Run",
     "Python.01.7-Shopping.executor": "Run",
     "Python.01.8-Basketball_equipment.executor": "Run",
     "Python.01.8-Lunch-break.executor": "Run",
+    "Python.01.8-On-time-for-the-exam.executor": "Run",
     "Python.01.9-Fish-tank.executor": "Run",
+    "Python.01.9-Ski-trip.executor": "Run",
     "Python.02-Greater-number.executor": "Run",
     "Python.02-Nums-1-to-10.executor": "Run",
     "Python.02-Weekend-or-working-day.executor": "Run",
@@ -111,29 +111,7 @@
       <recent name="E:\Python-lectures\PythonBasics\01-First-steps-in-coding" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01.4-Fishing-boat">
-    <configuration name="01.1-Cinema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonBasics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-Conditional-statements-advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.1-Cinema.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.01.9-Ski-trip">
     <configuration name="01.2-Summer_outfit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
@@ -178,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11-Fruit-shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01.6-Operations-between-numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,8 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/11-Fruit-shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.6-Operations-between-numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12-Trade-comissions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01.8-On-time-for-the-exam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,8 +191,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/12-Trade-comissions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.8-On-time-for-the-exam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01.9-Ski-trip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonBasics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-Conditional-statements-advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Conditional-statements-advanced/01.9-Ski-trip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01.9-Ski-trip" />
+        <item itemvalue="Python.01.8-On-time-for-the-exam" />
+        <item itemvalue="Python.01.6-Operations-between-numbers" />
         <item itemvalue="Python.01.4-Fishing-boat" />
         <item itemvalue="Python.01.2-Summer_outfit" />
-        <item itemvalue="Python.01.1-Cinema" />
-        <item itemvalue="Python.12-Trade-comissions" />
-        <item itemvalue="Python.11-Fruit-shop" />
       </list>
     </recent_temporary>
   </component>
