@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bb82cf4-9558-47e9-8a38-ed2420eff61b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/05-While-loop/01-Read-text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-While-loop/02-Password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-While-loop/03-Sum-numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-While-loop/04-Sequence-2k-plus-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-While-loop/05-Account-balance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-While-loop/06-Max-number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-While-loop/07-Min-number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-While-loop/08-Graduation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-While-loop/01.1-Old-books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-While-loop/01.2-Exam-preparation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-While-loop/01.3-Vacation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-While-loop/01.4-Walking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,19 +46,23 @@
     "Python.01-numbers-from-1-to-100.executor": "Run",
     "Python.01.1-Cinema.executor": "Run",
     "Python.01.1-Numbers-ending-in-7.executor": "Run",
+    "Python.01.1-Old-books.executor": "Run",
     "Python.01.1-Sum-seconds.executor": "Run",
     "Python.01.1-USD-to-BGN.executor": "Run",
     "Python.01.2-Bonus-score.executor": "Run",
+    "Python.01.2-Exam-preparation.executor": "Run",
     "Python.01.2-Half-sum-element.executor": "Run",
     "Python.01.2-Radians-to-Degrees.executor": "Run",
     "Python.01.2-Summer_outfit.executor": "Debug",
     "Python.01.3-Deposit-calculator.executor": "Run",
     "Python.01.3-Histogram.executor": "Run",
     "Python.01.3-Time-plus-15-minutes.executor": "Run",
+    "Python.01.3-Vacation.executor": "Debug",
     "Python.01.4-Clever-Lily.executor": "Run",
     "Python.01.4-Fishing-boat.executor": "Debug",
     "Python.01.4-Toy-shop.executor": "Run",
     "Python.01.4-Vacation-books-list.executor": "Run",
+    "Python.01.4-Walking.executor": "Debug",
     "Python.01.5-Godzilla-vs-Kong.executor": "Run",
     "Python.01.5-Salary.executor": "Run",
     "Python.01.5-Supplies-for-school.executor": "Debug",
@@ -141,8 +141,8 @@
       <recent name="E:\Python-lectures\PythonBasics\01-First-steps-in-coding" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.08-Graduation">
-    <configuration name="04-Sequence-2k-plus-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01.4-Walking">
+    <configuration name="01.1-Old-books" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-While-loop/04-Sequence-2k-plus-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-While-loop/01.1-Old-books.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05-Account-balance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01.2-Exam-preparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-While-loop/05-Account-balance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-While-loop/01.2-Exam-preparation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-Max-number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01.3-Vacation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-While-loop/06-Max-number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-While-loop/01.3-Vacation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-Min-number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01.4-Walking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBasics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +221,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-While-loop/07-Min-number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-While-loop/01.4-Walking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01.4-Walking" />
+        <item itemvalue="Python.01.3-Vacation" />
+        <item itemvalue="Python.01.2-Exam-preparation" />
+        <item itemvalue="Python.01.1-Old-books" />
         <item itemvalue="Python.08-Graduation" />
-        <item itemvalue="Python.07-Min-number" />
-        <item itemvalue="Python.06-Max-number" />
-        <item itemvalue="Python.05-Account-balance" />
-        <item itemvalue="Python.04-Sequence-2k-plus-1" />
       </list>
     </recent_temporary>
   </component>
